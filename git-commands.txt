@@ -1,0 +1,15 @@
+1. git init: 
+    to create a new repository on git
+2. git config --global user.name "Sam Smith"
+    git config --global user.email sam@example.com:  
+    to configure username and email address to be used with your commits.
+3. git clone(path):
+    to copy any path from github to git
+4. git commit -m"comments" filename:
+    to commit changes on github repository.
+5. git status:
+    to list the changed files and those which need to add or commit.
+6. git push:
+    to send changes to master branch of your remote repository
+7. git pull:
+    to fetch and merge changes on the remote server to your working directory:
